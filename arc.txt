@@ -1,0 +1,9 @@
+
+name="pedro"
+idade ="19"
+peso = "64'"
+print(name + " , " + idade + " , " + peso)
+
+if 10 > 2:
+    print("maior")
+print("menor")
